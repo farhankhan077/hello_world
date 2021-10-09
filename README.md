@@ -1,12 +1,10 @@
 # hello_world
 welcome to GIThub
 
-kya
-bakchodi 
-chal
-rhi
-hai
-yrrr....
+FARHAN KHAN
 
+Student 
+SGSITS
+batch 2024;
 
 eco ki class lagne wali hai
